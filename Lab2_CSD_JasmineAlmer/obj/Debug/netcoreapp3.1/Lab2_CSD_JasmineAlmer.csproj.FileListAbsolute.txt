@@ -1,0 +1,39 @@
+x:\Desktop\CSD\Lab2_CSD_JasmineAlmer\Lab2_CSD_JasmineAlmer\obj\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.csprojAssemblyReference.cache
+x:\Desktop\CSD\Lab2_CSD_JasmineAlmer\Lab2_CSD_JasmineAlmer\obj\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.AssemblyInfoInputs.cache
+x:\Desktop\CSD\Lab2_CSD_JasmineAlmer\Lab2_CSD_JasmineAlmer\obj\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.AssemblyInfo.cs
+x:\Desktop\CSD\Lab2_CSD_JasmineAlmer\Lab2_CSD_JasmineAlmer\obj\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.csproj.CoreCompileInputs.cache
+x:\Desktop\CSD\Lab2_CSD_JasmineAlmer\Lab2_CSD_JasmineAlmer\bin\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.exe
+x:\Desktop\CSD\Lab2_CSD_JasmineAlmer\Lab2_CSD_JasmineAlmer\bin\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.deps.json
+x:\Desktop\CSD\Lab2_CSD_JasmineAlmer\Lab2_CSD_JasmineAlmer\bin\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.runtimeconfig.json
+x:\Desktop\CSD\Lab2_CSD_JasmineAlmer\Lab2_CSD_JasmineAlmer\bin\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.runtimeconfig.dev.json
+x:\Desktop\CSD\Lab2_CSD_JasmineAlmer\Lab2_CSD_JasmineAlmer\bin\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.dll
+x:\Desktop\CSD\Lab2_CSD_JasmineAlmer\Lab2_CSD_JasmineAlmer\bin\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.pdb
+x:\Desktop\CSD\Lab2_CSD_JasmineAlmer\Lab2_CSD_JasmineAlmer\obj\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.dll
+x:\Desktop\CSD\Lab2_CSD_JasmineAlmer\Lab2_CSD_JasmineAlmer\obj\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.pdb
+x:\Desktop\CSD\Lab2_CSD_JasmineAlmer\Lab2_CSD_JasmineAlmer\obj\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.genruntimeconfig.cache
+U:\Downloads\Lab2_CSD_JasmineAlmer\Lab2_CSD_JasmineAlmer\bin\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.exe
+U:\Downloads\Lab2_CSD_JasmineAlmer\Lab2_CSD_JasmineAlmer\bin\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.deps.json
+U:\Downloads\Lab2_CSD_JasmineAlmer\Lab2_CSD_JasmineAlmer\bin\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.runtimeconfig.json
+U:\Downloads\Lab2_CSD_JasmineAlmer\Lab2_CSD_JasmineAlmer\bin\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.runtimeconfig.dev.json
+U:\Downloads\Lab2_CSD_JasmineAlmer\Lab2_CSD_JasmineAlmer\bin\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.dll
+U:\Downloads\Lab2_CSD_JasmineAlmer\Lab2_CSD_JasmineAlmer\bin\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.pdb
+U:\Downloads\Lab2_CSD_JasmineAlmer\Lab2_CSD_JasmineAlmer\obj\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.csprojAssemblyReference.cache
+U:\Downloads\Lab2_CSD_JasmineAlmer\Lab2_CSD_JasmineAlmer\obj\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.AssemblyInfoInputs.cache
+U:\Downloads\Lab2_CSD_JasmineAlmer\Lab2_CSD_JasmineAlmer\obj\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.AssemblyInfo.cs
+U:\Downloads\Lab2_CSD_JasmineAlmer\Lab2_CSD_JasmineAlmer\obj\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.csproj.CoreCompileInputs.cache
+U:\Downloads\Lab2_CSD_JasmineAlmer\Lab2_CSD_JasmineAlmer\obj\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.dll
+U:\Downloads\Lab2_CSD_JasmineAlmer\Lab2_CSD_JasmineAlmer\obj\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.pdb
+U:\Downloads\Lab2_CSD_JasmineAlmer\Lab2_CSD_JasmineAlmer\obj\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.genruntimeconfig.cache
+x:\Desktop\CSD\Lab2_CSD_JasmineAlmer_erics kommentarer\Lab2_CSD_JasmineAlmer\bin\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.exe
+x:\Desktop\CSD\Lab2_CSD_JasmineAlmer_erics kommentarer\Lab2_CSD_JasmineAlmer\bin\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.deps.json
+x:\Desktop\CSD\Lab2_CSD_JasmineAlmer_erics kommentarer\Lab2_CSD_JasmineAlmer\bin\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.runtimeconfig.json
+x:\Desktop\CSD\Lab2_CSD_JasmineAlmer_erics kommentarer\Lab2_CSD_JasmineAlmer\bin\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.runtimeconfig.dev.json
+x:\Desktop\CSD\Lab2_CSD_JasmineAlmer_erics kommentarer\Lab2_CSD_JasmineAlmer\bin\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.dll
+x:\Desktop\CSD\Lab2_CSD_JasmineAlmer_erics kommentarer\Lab2_CSD_JasmineAlmer\bin\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.pdb
+x:\Desktop\CSD\Lab2_CSD_JasmineAlmer_erics kommentarer\Lab2_CSD_JasmineAlmer\obj\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.csprojAssemblyReference.cache
+x:\Desktop\CSD\Lab2_CSD_JasmineAlmer_erics kommentarer\Lab2_CSD_JasmineAlmer\obj\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.AssemblyInfoInputs.cache
+x:\Desktop\CSD\Lab2_CSD_JasmineAlmer_erics kommentarer\Lab2_CSD_JasmineAlmer\obj\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.AssemblyInfo.cs
+x:\Desktop\CSD\Lab2_CSD_JasmineAlmer_erics kommentarer\Lab2_CSD_JasmineAlmer\obj\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.csproj.CoreCompileInputs.cache
+x:\Desktop\CSD\Lab2_CSD_JasmineAlmer_erics kommentarer\Lab2_CSD_JasmineAlmer\obj\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.dll
+x:\Desktop\CSD\Lab2_CSD_JasmineAlmer_erics kommentarer\Lab2_CSD_JasmineAlmer\obj\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.pdb
+x:\Desktop\CSD\Lab2_CSD_JasmineAlmer_erics kommentarer\Lab2_CSD_JasmineAlmer\obj\Debug\netcoreapp3.1\Lab2_CSD_JasmineAlmer.genruntimeconfig.cache
